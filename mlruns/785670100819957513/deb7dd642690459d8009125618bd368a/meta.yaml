@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/mlops_project2/mlops_project/mlruns/785670100819957513/deb7dd642690459d8009125618bd368a/artifacts
+end_time: 1761348403867
+entry_point_name: ''
+experiment_id: '785670100819957513'
+lifecycle_stage: active
+run_id: deb7dd642690459d8009125618bd368a
+run_name: kindly-bee-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761346420991
+status: 3
+tags: []
+user_id: User

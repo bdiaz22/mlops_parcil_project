@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/mlops_project2/mlops_project/mlruns/785670100819957513/5a67d1d1550b46968b091551c35fc1bf/artifacts
+end_time: 1761343431498
+entry_point_name: ''
+experiment_id: '785670100819957513'
+lifecycle_stage: active
+run_id: 5a67d1d1550b46968b091551c35fc1bf
+run_name: omniscient-kite-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761342677157
+status: 4
+tags: []
+user_id: User

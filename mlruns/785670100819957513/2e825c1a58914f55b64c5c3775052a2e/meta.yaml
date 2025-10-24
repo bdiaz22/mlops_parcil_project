@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/mlops_project2/mlops_project/mlruns/785670100819957513/2e825c1a58914f55b64c5c3775052a2e/artifacts
+end_time: 1761346307562
+entry_point_name: ''
+experiment_id: '785670100819957513'
+lifecycle_stage: active
+run_id: 2e825c1a58914f55b64c5c3775052a2e
+run_name: likeable-worm-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761346307026
+status: 4
+tags: []
+user_id: User
