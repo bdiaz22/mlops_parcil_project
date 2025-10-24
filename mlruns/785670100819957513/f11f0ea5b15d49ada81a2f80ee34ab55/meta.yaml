@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/mlops_project2/mlops_project/mlruns/785670100819957513/f11f0ea5b15d49ada81a2f80ee34ab55/artifacts
+end_time: 1761342419109
+entry_point_name: ''
+experiment_id: '785670100819957513'
+lifecycle_stage: active
+run_id: f11f0ea5b15d49ada81a2f80ee34ab55
+run_name: stately-stork-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761342418614
+status: 4
+tags: []
+user_id: User
